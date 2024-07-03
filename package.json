@@ -48,7 +48,7 @@
     "eslint-plugin-standard": "^3.1.0",
     "json-schema-ref-parser": "^3.3.1",
     "json-stringify-safe": "^5.0.1",
-    "mocha": "^10.2.0",
+    "mocha": "^10.6.0",
     "nodemon": "^2.0.20",
     "prettier": "^2.8.4",
     "uri-js": "^4.4.1"
